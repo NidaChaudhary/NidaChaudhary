@@ -1,17 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&height=70&lines=🌸+Welcome+To+Nida's+Universe+🌸;BS-IT+Student+@+University;Building+Clean+Code+%26+Digital+Spaces+✨" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&height=70&lines=🌸+Welcome+To+Nida's+Pixel+Universe+🌸;BS-IT+Undergraduate+Student;Building+Code+%26+Gaming+Vibes+🎮✨" alt="Header" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.org/Absolzero1/Absolzero1/master/utils/rainbow-line.gif" width="100%">
 </p>
 
 ---
 
-### 🌷 About Me
-* 🌸 **Status:** BS-IT undergraduate student.
-* 🌿 **Core Focus:** Mastering Python programming and exploring modern web development.
+### 🌸 Level 1: About Me (Cherry Blossom Vibe)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" alt="Cherry Blossom Vibe" />
+</p>
+
+* 🌿 **Status:** BS-IT undergraduate exploring the digital world.
 * ☕ **Philosophy:** Turning logic into clean, beautiful digital experiences.
+* 🎮 **Passions:** Beyond coding, I love diving into video games and aesthetic pixel worlds!
 
 ---
 
-### 🎨 Tech Stack & Inventory
+### ⚙️ Level 2: Tech Stack & Inventory
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="100%" alt="Tech Vibe" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,21 +39,22 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🚀 Level 3: Current Work-In-Progress (WIP)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NidaChaudhary&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" alt="Nida's GitHub Stats" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Workspace Vibe" />
 </p>
 
----
-
-### 🚀 Current Work-In-Progress (WIP)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=34D399&center=false&vCenter=true&width=550&height=50&lines=Strengthening+Python+Basics...;Designing+My+Article+Website...;Writing+Clean+Code+Daily..." alt="WIP Typing" />
 </p>
 
 ---
 
-### ✨ Let's Connect
+### ✨ Level 4: Let's Connect
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="100%" alt="Connect Vibe" />
+</p>
+
 * 📧 **Email:** [nidachaudharypk@gmail.com](mailto:nidachaudharypk@gmail.com)
 * 💼 **LinkedIn:** [Nida Chaudhary](https://www.linkedin.com/in/nida-chaudhary-7276b3431/)
 * 🌸 **Linktree Hub:** [View All Links](https://linktr.ee/nidachaudharypk)
@@ -49,9 +62,13 @@
 <br>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.org/Absolzero1/Absolzero1/master/utils/rainbow-line.gif" width="100%">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=NidaChaudhary&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <i>🌷 "Simplicity is the ultimate sophistication." • Built with coffee and code ☕</i>
+  <i>🌷 "Simplicity is the ultimate sophistication." • Built with pixels, games, and coffee ☕</i>
 </p>
