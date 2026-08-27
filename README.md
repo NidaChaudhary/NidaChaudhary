@@ -37,7 +37,7 @@
 ### ✨ Let's Connect
 * 📧 **Email:** [nidachaudharypk@gmail.com](mailto:nidachaudharypk@gmail.com)
 * 💼 **LinkedIn:** [Nida Chaudhary](https://www.linkedin.com/in/nida-chaudhary-7276b3431/)
-* 🌸 **Linktree Hub:** [View All Links](https://linktr.ee/nidachaudharypk)
+* 🌸 **Linktree Hub:** [View All Links](https://linktr.ee/nidachaudhary)
 
 <br>
 
