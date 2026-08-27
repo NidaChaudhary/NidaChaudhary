@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&height=70&lines=🌸+Welcome+To+Nida's+Universe+🌸;BS-IT+Undergraduate+Student;Building+Clean+Code+%26+Digital+Spaces+✨" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B4423&height=160&section=header&text=Nida%20Chaudhary&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Aesthetic Earthy Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&height=60&lines=🌸+Welcome+To+Nida's+Universe+🌸;BS-IT+Undergraduate+Student;Building+Clean+Code+%26+Digital+Spaces+✨" alt="Typing Header" />
 </p>
 
 ---
@@ -37,7 +41,7 @@
 ### ✨ Let's Connect
 * 📧 **Email:** [nidachaudharypk@gmail.com](mailto:nidachaudharypk@gmail.com)
 * 💼 **LinkedIn:** [Nida Chaudhary](https://www.linkedin.com/in/nida-chaudhary-7276b3431/)
-* 🌸 **Linktree Hub:** [View All Links](https://linktr.ee/nidachaudhary)
+* 🌸 **Linktree Hub:** [View All Links](https://linktr.ee/nidachaudharypk)
 
 <br>
 
