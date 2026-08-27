@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B4423&height=160&section=header&text=Nida%20Chaudhary&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Aesthetic Cherry Blossom Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=160&section=header&text=Nida%20Chaudhary&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Cherry Blossom Pink Banner" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 ### ✨ Let's Connect
 * 📧 **Email:** [nidachaudharypk@gmail.com](mailto:nidachaudharypk@gmail.com)
 * 💼 **LinkedIn:** [Nida Chaudhary](https://www.linkedin.com/in/nida-chaudhary-7276b3431/)
-* 🌸 **Linktree Hub:** [View All Links](https://linktr.ee/nidachaudhary)
+* 🌸 **Linktree Hub:** [View All Links](https://linktr.ee/nidachaudharypk)
 
 <br>
 
