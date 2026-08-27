@@ -22,13 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Nida's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaChaudhary&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NidaChaudhary&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 🚀 What I'm Working On
 - 📚 Strengthening my Python fundamentals
 - 🌐 Building responsive web applications
@@ -38,9 +31,8 @@
 ---
 
 ### 📫 Let's Connect!
-- 📧 **Email**: [Your Email Here]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🐦 **Twitter**: [@YourHandle]
+- 📧 **Email**: nidachaudharypk@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/nida-chaudhary-7276b3431/
 - 🌐 **Portfolio**: [Your Website]
 
 ---
