@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  🌸 <b>**Consistency is the key to mastering code, step by step.**</b> 🌸
+  🌸 <b>Consistency is the key to mastering code, step by step.</b> 🌸
 </p>
